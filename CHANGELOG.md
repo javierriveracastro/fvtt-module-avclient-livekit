@@ -1,3 +1,18 @@
+# 0.5.22
+
+- Updates to support Foundry v11
+- Update dependencies, including livekit-client v1.11.4
+- Update dependency handling to Yarn v3
+
+# 0.5.21
+
+- Update dependencies, including livekit-client v1.8.0
+
+# 0.5.20
+
+- Update dependencies, including livekit-client v1.7.1
+- Set compatibility to include FoundryVTT v11
+
 # 0.5.19
 
 - Catch errors when trying to get a list of media devices
